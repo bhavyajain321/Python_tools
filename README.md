@@ -1,2 +1,2 @@
 # python_tools
-# This repo contains python basic tools that are used in cyber security
+# This repo contains Python basic tools that are used in cyber security
